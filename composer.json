@@ -1,0 +1,23 @@
+{
+  "name": "twin-elements/response-parameter-builder",
+  "type": "library",
+  "description": "Parameter builder for response",
+  "keywords": [
+    "builder"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Wladysław Dudko",
+      "email": "wladyslaw@jellinek.pl"
+    }
+  ],
+  "require": {
+    "php": "^7.1"
+  },
+  "autoload": {
+    "psr-4": {
+      "TwinElements\\Component\\ResponseParameterBuilder\\": ""
+    }
+  }
+}
